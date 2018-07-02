@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"han",
+				"handle"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"r",
+				"rpassword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse"
+	],
+	"file_history":
+	[
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/course-single.html",
+		"/C/Dell/xamp/htdocs/iitpulse/courses.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/css/style.min.css",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/css/style.css",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/events.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/index.html",
+		"/C/Dell/xamp/htdocs/iitpulse/index.html",
+		"/C/Dell/xamp/htdocs/iitpulse/course-single.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB/index.html",
+		"/C/Dell/xamp/htdocs/iitpulse/news.html",
+		"/C/Dell/xamp/htdocs/iitpulse/gallery.html",
+		"/C/Dell/xamp/htdocs/iitpulse/Features.html",
+		"/C/Dell/xamp/htdocs/iitpulse/events.html",
+		"/C/Dell/xamp/htdocs/iitpulse/about.html",
+		"/C/Dell/xamp/htdocs/iitpulse/contact.html",
+		"/C/Dell/xamp/htdocs/iitpulse/gulpfile.js",
+		"/C/Dell/xamp/htdocs/iitpulse/js/scripts.min.js",
+		"/C/Dell/xamp/htdocs/iitpulse/js/main.min.js",
+		"/C/Dell/xamp/htdocs/iitpulse/js/scripts.js",
+		"/C/Dell/xamp/htdocs/iitpulse/js/main.js",
+		"/C/Dell/xamp/htdocs/iitpulse/js/custom.js",
+		"/C/Users/Chinmayxx/Desktop/major project(lan chat)/Chat-master/controller/controller.js",
+		"/C/Users/Chinmayxx/Desktop/major project(lan chat)/Chat-master/server.js",
+		"/C/Users/Chinmayxx/Desktop/major project(lan chat)/Chat-master/model/model.js",
+		"/C/Users/Chinmayxx/Desktop/major project(lan chat)/Chat-master/views/angular/controller.js",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/iitpulse/gallery.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB/feedback.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB/final.html",
+		"/C/Users/Chinmayxx/Desktop/Chat-master/package.json",
+		"/C/Users/Chinmayxx/Desktop/Chat-master/package-lock.json",
+		"/C/Users/Chinmayxx/Desktop/Chat-master/README.md",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/index.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/gallery.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/Features.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/events.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/courses.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/course-single.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/contact.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/about.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/them/enlight-master/news.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/HTML Color Codes.html",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB - Copy/css/bootstrap-theme.css",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB - Copy/cm.PNG",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB - Copy/css/bootstrap-theme.min.css.map",
+		"/C/Users/Chinmayxx/Desktop/iit pulse/IITPULSE WEB - Copy/css/bootstrap-theme.css.map"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Chinmayxx\\Desktop\\iit pulse\\them\\iitpulse"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
